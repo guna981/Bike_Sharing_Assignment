@@ -17,16 +17,25 @@ It is required to find Which variables are significant in predicting the demand 
 Top Significant variablesin predection of the demand for shared bikes
 
   temp
+  
   Season
+  
   Year
+  
   weathersit
 
 
 ## Technologies Used
+
 numpy 
-pandas 
+
+pandas
+
 matplotlib 
+
 seaborn 
+
 statsmodels
+
 sklearn
 
